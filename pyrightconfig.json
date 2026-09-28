@@ -1,0 +1,6 @@
+{
+  "extraPaths": ["../scene_graph-alunos/python"],
+  "useLibraryCodeForTypes": true,
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": "none"
+}
